@@ -1,0 +1,166 @@
+{
+	"apiVersion": "1",
+	"name": "ttb/text-typing",
+	"title": "Text Typing",
+	"description": "Make your text in amazing typing effect.",
+	"category": "widgets",
+	"keywords": [
+		"typing text",
+		"typing effect",
+		"typed js"
+	],
+	"textdomain": "text-typing",
+	"attributes": {
+		"align": {
+			"type": "string",
+			"default": ""
+		},
+		"cId": {
+			"type": "string",
+			"default": ""
+		},
+		"prefixText": {
+			"type": "string",
+			"default": "We create"
+		},
+		"typingContents": {
+			"type": "array",
+			"default": [
+				{
+					"text": "WordPress Plugins",
+					"color": "#52c41a"
+				},
+				{
+					"text": "WordPress Themes",
+					"color": "#fa8c16"
+				},
+				{
+					"text": "Drupal Modules",
+					"color": "#1890ff"
+				},
+				{
+					"text": "Prestashop Modules",
+					"color": "#df0067"
+				},
+				{
+					"text": "Magento Extensions",
+					"color": "#f46f25"
+				},
+				{
+					"text": "Shopify Apps",
+					"color": "#95bf47"
+				}
+			]
+		},
+		"suffixText": {
+			"type": "string",
+			"default": ""
+		},
+		"typeSpeed": {
+			"type": "number",
+			"default": 100
+		},
+		"startDelay": {
+			"type": "number",
+			"default": 500
+		},
+		"backSpeed": {
+			"type": "number",
+			"default": 75
+		},
+		"backDelay": {
+			"type": "number",
+			"default": 500
+		},
+		"isShuffle": {
+			"type": "boolean",
+			"default": false
+		},
+		"isFadeOut": {
+			"type": "boolean",
+			"default": false
+		},
+		"fadeOutDelay": {
+			"type": "number",
+			"default": 500
+		},
+		"isLoop": {
+			"type": "boolean",
+			"default": true
+		},
+		"loopCount": {
+			"type": "number",
+			"default": 0
+		},
+		"isCursor": {
+			"type": "boolean",
+			"default": true
+		},
+		"cursorChar": {
+			"type": "string",
+			"default": "|"
+		},
+		"textAlign": {
+			"type": "string",
+			"default": "center"
+		},
+		"background": {
+			"type": "object",
+			"default": {
+				"color": "#0000"
+			}
+		},
+		"padding": {
+			"type": "object",
+			"default": {
+				"vertical": "10px",
+				"horizontal": "15px"
+			}
+		},
+		"prefixTypo": {
+			"type": "object",
+			"default": {
+				"fontSize": 22
+			}
+		},
+		"prefixColor": {
+			"type": "string",
+			"default": "#333"
+		},
+		"typingContentsTypo": {
+			"type": "object",
+			"default": {
+				"fontSize": 22,
+				"fontWeight": 600
+			}
+		},
+		"suffixTypo": {
+			"type": "object",
+			"default": {
+				"fontSize": 22
+			}
+		},
+		"suffixColor": {
+			"type": "string",
+			"default": "#333"
+		}
+	},
+	"supports": {
+		"align": [
+			"wide",
+			"full"
+		],
+		"html": false
+	},
+	"example": {
+		"attributes": {
+			"preview": true,
+			"boxWidth": "120px",
+			"boxHeight": "100px",
+			"boxSpace": "15px",
+			"destDate": "Dec 22 2022"
+		}
+	},
+	"editorScript": "file:dist/editor.js",
+	"script": "file:dist/script.js"
+}

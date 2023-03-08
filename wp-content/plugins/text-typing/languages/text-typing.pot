@@ -1,0 +1,221 @@
+# Copyright (C) 2022 bPlugins LLC
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Text Typing - Block 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/text-typing\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-17T06:43:17+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: text-typing\n"
+
+#. Plugin Name of the plugin
+msgid "Text Typing - Block"
+msgstr ""
+
+#. Description of the plugin
+msgid "Make your text in amazing typing effect."
+msgstr ""
+
+#. Author of the plugin
+msgid "bPlugins LLC"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://bplugins.com"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6133
+msgid "General"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6134
+msgid "Style"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5991
+msgid "Help"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5993
+msgid "Read Documentation"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5998
+msgid "Would you please rate us?"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5999
+msgid "We are new and we need your help to grow!🙏"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6005
+msgid "Texts"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6006
+msgid "Prefix Text:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6009
+msgid "Typing Contents:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6015
+msgid "Remove this text"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6024
+msgid "Add Typing Content"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6027
+msgid "Suffix Text:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6032
+msgid "Typed Settings"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6034
+msgid "Type Speed:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6039
+msgid "Start Delay:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6044
+msgid "Back Speed:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6049
+msgid "Back Delay:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6053
+msgid "Enable Shuffle"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6055
+msgid "Enable Fade Out Effect"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6058
+msgid "Fade Out Delay:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6062
+msgid "Enable Loop"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6065
+msgid "Loop Count:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6071
+msgid "Enable Cursor"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6073
+msgid "Cursor Character:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6087
+msgid "Text Typing"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6091
+msgid "Background:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6093
+msgid "Padding:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6097
+msgid "Text"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6099
+msgid "Prefix Typography:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6101
+msgid "Prefix Color:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6104
+msgid "Typing Contents Typography:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6107
+msgid "Suffix Typography:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6109
+msgid "Suffix Color:"
+msgstr ""
+
+#: block.json
+msgctxt "block title"
+msgid "Text Typing"
+msgstr ""
+
+#: block.json
+msgctxt "block description"
+msgid "Make your text in amazing typing effect."
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "typing text"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "typing effect"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "typed js"
+msgstr ""

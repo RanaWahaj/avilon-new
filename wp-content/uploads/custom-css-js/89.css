@@ -1,0 +1,46 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+.elementor-element-9f63579.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-sticky.elementor-sticky--active.elementor-section--handles-inside.elementor-sticky--effects {
+    background: #0d0d0de6;
+    padding: 0px;
+    height: 70px;
+}
+form.wpcf7-form.init input {
+    margin-bottom: 15px;
+}
+.btn {
+    width: 34%;
+    margin: auto;
+}
+input.sbmt-btn:focus {
+    color: #fff;
+    background-color: #25d8fc !important;
+    text-decoration: none !important;
+    outline: none !important;
+    border-radius: 0px !important;
+}
+input.sbmt-btn:hover{
+	background:#25d8fc !important;
+	color: #fff !important;
+}
+input.sbmt-btn {
+    background: #03C4EB !important;
+    color: #fff !important;
+    outline: none !important;
+}
+input {
+    margin-bottom: 15px !important;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

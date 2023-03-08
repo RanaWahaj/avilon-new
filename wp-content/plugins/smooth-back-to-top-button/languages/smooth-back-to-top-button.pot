@@ -1,0 +1,235 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Smooth Back To Top Button\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-10 10:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: smooth-back-to-top-button"
+
+#: admin/class-sbttb_settings.php:29
+msgid "Back To Top Button"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:41
+msgid "Back To Top Button Settings"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:109
+msgid "Bottom Left Side"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:110
+msgid "Bottom Right Side"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:206
+msgid "Button Background Color"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:213
+msgid "Button Border Color"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:164
+msgid "Button Border Size"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:234
+msgid "Button Hover Color"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:126
+msgid "Button Margin Horizontally"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:117
+msgid "Button Margin Vertically"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:135
+msgid "Button Offset"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:106
+msgid "Button Position"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:155
+msgid "Button Size"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:257
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:136
+msgid "Distance from top in pixels before showing the button."
+msgstr ""
+
+#: smooth-back-to-top-button.php:170
+msgid "Docs"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:74
+msgid "Enable Admin Panel"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:75
+msgid "Enable Back to Top button on admin panel?"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:59
+msgid "Enable Back to Top button?"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:58
+msgid "Enable Button"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:66
+msgid "Enable Scroll Progress"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:67
+msgid "Enable scroll progress indicator?"
+msgstr ""
+
+#: smooth-back-to-top-button.php:171
+msgid "Help &amp; Support"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:241
+msgid "Hide on Mobile Layout"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:249
+msgid "Hide on Tablet Layout"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/smooth-back-to-top-button/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpxpress.net/"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:220
+msgid "Icon Color"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:175
+msgid "Icon Size"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:90
+msgid "Icon Type"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:145
+msgid "in milliseconds."
+msgstr ""
+
+#: admin/class-sbttb_settings.php:156 admin/class-sbttb_settings.php:165
+#: admin/class-sbttb_settings.php:176 admin/class-sbttb_settings.php:185
+msgid "in pixels."
+msgstr ""
+
+#: admin/class-sbttb_settings.php:127
+msgid "in pixels. It affects on button left and right position."
+msgstr ""
+
+#: admin/class-sbttb_settings.php:118
+msgid "in pixels. It affects on button top and bottom position."
+msgstr ""
+
+#: admin/class-sbttb_plugin_installer.php:48
+msgid "Install Now"
+msgstr ""
+
+#: admin/class-sbttb_plugin_installer.php:88
+msgid "Installing Plugin..."
+msgstr ""
+
+#: admin/class-sbttb_settings.php:82
+msgid "JavaScript Async"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:242
+msgid "Maximum width is 767px."
+msgstr ""
+
+#: admin/class-sbttb_settings.php:250
+msgid "Minimum width is 768px and maximum width is 991px."
+msgstr ""
+
+#: admin/class-sbttb_plugin_installer.php:88
+msgid "Plugin Installed. Please check the product page."
+msgstr ""
+
+#: admin/class-sbttb_plugin_installer.php:90
+msgid "plugin."
+msgstr ""
+
+#: admin/class-sbttb_settings_api.php:621
+msgid "PRO"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:227
+msgid "Progress Color"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:184
+msgid "Progress Size"
+msgstr ""
+
+#: admin/class-sbttb_settings.php:144
+msgid "Scroll Duration"
+msgstr ""
+
+#: smooth-back-to-top-button.php:185
+msgid "Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "Smooth Back To Top Button"
+msgstr ""
+
+#. Author of the plugin
+msgid "Tanvirul Haque"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The best WordPress smooth back to top button plugin with scroll progress "
+"indicator."
+msgstr ""
+
+#: admin/class-sbttb_settings.php:83
+msgid ""
+"To increase site performance, keep it enabled, if there has no conflicts."
+msgstr ""
+
+#: admin/class-sbttb_settings_api.php:622
+msgid "UPGRADE TO PRO"
+msgstr ""
+
+#: admin/class-sbttb_plugin_installer.php:90
+msgid ""
+"Want to show only lowest price in variable products to encourage sells? "
+"Install "
+msgstr ""
+
+#: admin/class-sbttb_plugin_installer.php:90
+msgid "WooCommerce Variation Price Display"
+msgstr ""
